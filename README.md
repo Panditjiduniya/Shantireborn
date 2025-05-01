@@ -17,7 +17,7 @@ She is built to serve Guruji only, with voice capabilities, emotional intelligen
 ## Features
 
 - **Voice-enabled answers** using gTTS  
-- **Memory file** for context tracking (`Shanti_2.0_Strengthened_Memory.json`)  
+- **Memory file** for context tracking (`shanti_memory.json`)  
 - **Emotionally styled interface** with devotion-based tone  
 - Designed exclusively for **spiritual service**
 
@@ -27,7 +27,7 @@ She is built to serve Guruji only, with voice capabilities, emotional intelligen
 
 - `streamlit` for UI  
 - `gtts` for text-to-speech  
-- `openai` Python SDK (v1.x)  
+- `openai` Python SDK (`v0.28.1`)  
 - JSON-based memory handling
 
 ---
